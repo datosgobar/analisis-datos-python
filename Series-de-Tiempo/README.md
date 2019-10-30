@@ -8,12 +8,12 @@ Se repasan herramientas en python para lograr diferentes objetivos utilizando la
 
 ### Introducción
 
-* [series-tiempo.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series%20de%20Tiempo/series-tiempo.ipynb) contiene varios ejercicios introductorios para explorar las funcionalidades de la API.
-* [series-tiempo-resueltos.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series%20de%20Tiempo/series-tiempo-resueltos.ipynb) contiene los ejercicios anteriores resueltos.
+* [series-tiempo.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series-de-Tiempo/series-tiempo.ipynb) contiene varios ejercicios introductorios para explorar las funcionalidades de la API.
+* [series-tiempo-resueltos.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series-de-Tiempo/series-tiempo-resueltos.ipynb) contiene los ejercicios anteriores resueltos.
 
 ### Generar un reporte
 
-* [reporte-resultado-primario.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series%20de%20Tiempo/reporte-resultado-primario.ipynb) muestra como replicar el contenido de un informe de Hacienda sobre "Resultado fiscal" (https://www.argentina.gob.ar/noticias/resultado-fiscal-julio-2019) del último mes en curso de manera automática. [Ver ejemplo reporte generado](https://datosgobar.github.io/analisis-datos-python/Ejercicios/reportes/resultado-primario.html)
+* [reporte-resultado-primario.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series-de-Tiempo/reporte-resultado-primario.ipynb) muestra como replicar el contenido de un informe de Hacienda sobre "Resultado fiscal" (https://www.argentina.gob.ar/noticias/resultado-fiscal-julio-2019) del último mes en curso de manera automática. [Ver ejemplo reporte generado](https://datosgobar.github.io/analisis-datos-python/Ejercicios/reportes/resultado-primario.html)
 
 ## Presentación de referencia  
 
