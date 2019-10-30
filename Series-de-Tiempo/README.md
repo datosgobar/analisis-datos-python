@@ -13,7 +13,7 @@ Se repasan herramientas en python para lograr diferentes objetivos utilizando la
 
 ### Generar un reporte
 
-* [reporte-resultado-primario.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series-de-Tiempo/reporte-resultado-primario.ipynb) muestra como replicar el contenido de un informe de Hacienda sobre "Resultado fiscal" (https://www.argentina.gob.ar/noticias/resultado-fiscal-julio-2019) del último mes en curso de manera automática. [Ver ejemplo reporte generado](https://datosgobar.github.io/analisis-datos-python/Series-de-Tiempo/reportes/resultado-primario.html)
+* [reporte-resultado-primario.ipynb](https://github.com/datosgobar/analisis-datos-python/blob/master/Series-de-Tiempo/reporte-resultado-primario.ipynb) muestra como replicar el contenido de un informe de Hacienda sobre "Resultado fiscal" (https://www.argentina.gob.ar/hacienda/sechacienda/noticias) del último mes en curso de manera automática. [Ver ejemplo reporte generado](https://datosgobar.github.io/analisis-datos-python/Series-de-Tiempo/reportes/resultado-primario.html)
 
 ## Presentación de referencia  
 
