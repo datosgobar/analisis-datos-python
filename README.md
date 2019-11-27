@@ -4,4 +4,4 @@ Repositorio de jupyter notebooks de ejemplo para trabajar en diferentes temátic
 ## Temas:
 
 * [Series de Tiempo](https://github.com/datosgobar/analisis-datos-python/tree/master/Series-de-Tiempo)
-* Georeferenciamiento (https://github.com/datosgobar/analisis-datos-python/tree/master/Georeferencia)
+* [Georeferenciamiento](https://github.com/datosgobar/analisis-datos-python/tree/master/Georeferencia)
